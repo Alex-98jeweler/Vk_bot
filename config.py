@@ -1,13 +1,13 @@
 import requests
 from bs4 import BeautifulSoup as bs
 
-token = '991e5b3a5f38afff473be81ad9a4fb71e37dc79d382fc623b2141dff3dbf8205286b185263b7fb2030147'
+token = 'your token from vk'
 
-token1 = '29d55d2fa26844cc115eaac59c3e1433722b5eb1b794c5aac529be8b2b083b812362f181bd599a0582a2a'
 
-group_id = 151028628
 
-group_id_1 = 149403717
+group_id = 'id your group VK' 
+
+
 
 keyboard = {
     "one_time": False,
